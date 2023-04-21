@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: container-buchanan
-        image: public.ecr.aws/p5u5p5h0/buchananecr:6
+        image: public.ecr.aws/p5u5p5h0/buchananecr:7
         ports:
         - containerPort: 80
 ---
